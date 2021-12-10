@@ -1,0 +1,3 @@
+[submodule "concurrency-pattern-go"]
+	path = concurrency-pattern-go
+	url = https://github.com/daiwanwei/concurrency-pattern-go.git
