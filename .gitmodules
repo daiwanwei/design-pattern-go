@@ -1,3 +1,12 @@
 [submodule "concurrency-pattern-go"]
 	path = concurrency-pattern-go
 	url = https://github.com/daiwanwei/concurrency-pattern-go.git
+[submodule "behavioral-pattern-go"]
+	path = behavioral-pattern-go
+	url = https://github.com/daiwanwei/behavioral-pattern-go.git
+[submodule "structral-pattern-go"]
+	path = structral-pattern-go
+	url = https://github.com/daiwanwei/structural-pattern-go.git
+[submodule "creational-pattern-go"]
+	path = creational-pattern-go
+	url = https://github.com/daiwanwei/creational-pattern-go.git
